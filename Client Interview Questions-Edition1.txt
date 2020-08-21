@@ -1,0 +1,38 @@
+Framework
+*********
+Advantages and Disadvantages of BDD
+General issues we face during cucumber framework
+
+Automation Tools
+****************
+Explain Selenium Webdriver
+Why Element click using java script is a bad practice?
+When will we use a hybrid approach for UI and API?
+Criteria to select Automation candidates in a test suite
+
+
+Version Control
+****************
+Different between git pull and git fetch commands
+git command to compare the changes between two version before creating a pull request
+git command to list the untracked files
+
+
+API
+*****
+What types of bugs we found in API Automation?
+
+OOPS
+****
+Difference between Interface and Abstract class
+Keyword to make a method override able in Abstract class
+Explain multiple inheritance in C# and Java
+Explain Reflection in C#
+
+Test Management
+***************
+What is the approach to test a multi-language/browser suite in a short test cycle period
+
+Database
+********
+Explain the concept of Primary and Foreign Keys
